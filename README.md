@@ -28,7 +28,7 @@ USA. For this project, the dataset is a ‘.csv’ file and it was downloaded fr
  # Instructions to Run:
  1.) GitClone this Repository.
  
- 2.) Follow the instructions exactly as provided in the Read-me File.
+ 2.) Follow the instructions exactly as provided in the Readme.txt File provided.
  
  3.) This code is open source and can be used by anyone for Research purposes, but please do cite it.
  
